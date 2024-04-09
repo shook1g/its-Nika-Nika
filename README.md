@@ -16,7 +16,7 @@ sudo apt-get install libxtst-dev
 ### 1. Download Repo:
 ```
 Open Linux terminal then type:
-git clone https://github.com/Pesci-Apu/Nika
+git clone https://github.com/shook1g/its-Nika-Nika
 ```
 
 ### 2. Get inside the folder
@@ -41,7 +41,9 @@ sudo ./a.out
 
 ## Credits
 ```
+[shook1 UC - CopiPasta/The Offset Updater]
 [arturzxc UC - Grinder]
 [Azreol UC - Xap-client]
 [duckman6969 UC - FixSkillIssue]
 [Acknowledge UC - Nika]
+[Pesci-Apu aka Acknowledge on UC]
