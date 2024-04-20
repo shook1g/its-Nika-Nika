@@ -41,9 +41,10 @@ sudo ./a.out
 
 ## Credits
 ```
-[shook1 UC - CopiPasta/The Offset Updater]
-[arturzxc UC - Grinder]
+[shook1 UC - CopiPasta/The Offset Updater #1g #1stGeneration] 
+[Pesci-Apu aka Acknowledge on UC  Nika Original & All the beautiful code written here]
+[arturzxc UC - Linux Original C++ & Grinder]
 [Azreol UC - Xap-client]
 [duckman6969 UC - FixSkillIssue]
-[Acknowledge UC - Nika]
-[Pesci-Apu aka Acknowledge on UC]
+[Acknowledge UC - Already Mentioned, why not another?] ^|v
+[Gerosity UC - The Legendary ch34t3r]
